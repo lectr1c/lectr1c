@@ -6,7 +6,7 @@ I'm Razzaq and I am a Computer Science student at KTH!
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-![lectr1c's GitHub stats](https://github-readme-stats.vercel.app/api?username=lectr1c&show_icons=true&include_all_commits=true&theme=dracula)
+![lectr1c's GitHub stats](https://github-readme-stats.vercel.app/api?username=lectr1c&show_icons=true&include_all_commits=false&theme=dracula)
 <!--
 **lectr1c/lectr1c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
