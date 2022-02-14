@@ -2,7 +2,9 @@
 I'm Razzaq and I am a Computer Science student at KTH!
 
 ## Links:
-* LinkedIn: ![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/razzaqs/)
+* LinkedIn: <a href="https://www.linkedin.com/in/razzaqs/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
 ![lectr1c's GitHub stats](https://github-readme-stats.vercel.app/api?username=lectr1c&show_icons=true&theme=dracula)
 <!--
